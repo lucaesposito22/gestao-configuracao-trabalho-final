@@ -1,0 +1,4 @@
+dev
+hotfix
+* main
+prod
