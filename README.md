@@ -17,3 +17,10 @@ ferramentas. Realize as seguintes tarefas que representam o fluxo de
 trabalho com Git/GitHub
 
 O Arquivo com os demais detalhes esta disponivel no AVA.
+
+
+API_URL= URL da api para realizar as requisiçoes
+PORT= Porta que o servidor vai ouvir a API
+DEBUG= Controla se a aplicação esta em modo de depuração
+USER= Tipo de acesso/identificador
+TOKEN= Token de autenticacao
